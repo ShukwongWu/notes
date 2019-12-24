@@ -46,7 +46,7 @@
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged",
-      "pre-push": "YOUR_COMMAND_HERE"
+      "pre-push": "git push"
     }
   },
   "lint-staged": {
